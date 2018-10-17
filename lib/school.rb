@@ -16,6 +16,13 @@ class School
     # end
     
 
+    # if @roster[grade]
+    #   @roster[grade].push(student)
+    # else
+    #   @roster[grade] = [student]
+    # end
+    
+
     # @roster[grade] = [] unless @roaster[grade]
     
 
